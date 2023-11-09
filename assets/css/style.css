@@ -1,0 +1,10 @@
+
+body.home {
+    background-color: #f8f8f8;
+}
+.mainrow {
+    height: 90vh;
+}
+.contentrow {
+    height: calc(100vh - 50px);
+}
